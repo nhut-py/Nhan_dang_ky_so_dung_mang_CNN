@@ -4,4 +4,5 @@
 + Nhận dạng ảnh có sẳn trong thư viện img
 + Ảnh sử dụng có độ phân giải là 28x28px
 + File để chạy chức năng nhận dạng ảnh có sẳn là nhan_dien.py
-
+![alt](https://github.com/nhut-py/Nhan_dang_ky_so_dung_mang_CNN/blob/main/picture/av2.png)
+![alt](https://github.com/nhut-py/Nhan_dang_ky_so_dung_mang_CNN/blob/main/picture/av3.png)
