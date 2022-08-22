@@ -2,7 +2,7 @@
 - Nhận dạng ký đố viết tay sử dụng mạng CNN, thư viện dữ liệu là MNIST.
 - Ngoài ra còn sử dụng một số thư viện như: tkinter, tensorflow, keras,...
 - Ngôn ngữ sử dụng là Python
-- Nội dung nghiên cứu nằm ở 
+- Nội dung nghiên cứu nằm trong file pdf ở: https://github.com/nhut-py/Nhan_dang_ky_so_dung_mang_CNN/tree/main/word
 # Project với 2 chức năng: 
 - Nhận dạng ảnh có sẳn trong thư viện img:
 + Ảnh sử dụng có độ phân giải là 28x28px
